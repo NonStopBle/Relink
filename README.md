@@ -21,6 +21,7 @@ MINECRAFT RCE
 <p align="center">
 <img src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/relink_st.PNG">  
 </p>
+
 + /relink start minecraft server
 + start relink client on your pc
 + go to settings insert your server ip (if using port forwarding : 80) 
