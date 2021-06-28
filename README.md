@@ -1,5 +1,5 @@
 # Relink
-MINECRAFT RCE
+Link your minecraft server with command prompt you can config logic to make a challenge
 <p align="center">
 <img src="https://raw.githubusercontent.com/NonStopBle/NonStopBle/main/res/relink_xpx.PNG">
 </p>
